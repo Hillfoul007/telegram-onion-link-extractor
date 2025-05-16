@@ -9,7 +9,7 @@ A Python script that extracts `.onion` links from Telegram messages using the Te
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/hillfoul007/telegram-onion-link-extractor.git
+   git clone https://github.com/Hillfoul007/telegram-onion-link-extractor.git
    cd telegram-onion-link-extractor
    ```
 
@@ -42,6 +42,12 @@ Found 2 .onion link(s):
 http://example1abcxyz.onion
 https://darkmarket12345.onion
 ```
+
+---
+
+## 🖼️ POC Screenshot
+
+![Screenshot](Screenshot 2025-05-16 151407.png)
 
 ---
 
